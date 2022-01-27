@@ -1,4 +1,5 @@
 # space-shooter
+
 This is a pure python game developed with pygame
 The image assets are located in the files directory
 INSTRUCTION
@@ -15,3 +16,5 @@ time
 random
 
 enjoy the game lads.....
+
+![preview](preview.png)
